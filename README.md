@@ -2,9 +2,7 @@
 Just for Intro
 <br>
 Check out at: <br>
-<http://brainmetron.ml/> 
-<br> OR <br>
-<BrainMetron.ml>
+(BrainMetron.ml) [<http://brainmetron.ml/> ]
 <br> OR <br>
 #https://atharvachavan.github.io/brainmetron/
 <br> <br>
