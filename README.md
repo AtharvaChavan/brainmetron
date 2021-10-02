@@ -1,10 +1,12 @@
 # Brainmetron-Intoductory-Session
 Just for Intro
 <br>
-Check out at <br>
-#https://atharvachavan.github.io/brainmetron/
+Check out at: <br>
+<http://brainmetron.ml/> 
 <br> OR <br>
-#https://atharvachavan.me/brainmetron/
+<BrainMetron.ml>
+<br> OR <br>
+#https://atharvachavan.github.io/brainmetron/
 <br> <br>
 For Videos:
 <br> #https://atharvachavan.github.io/brainmetron/Videos
