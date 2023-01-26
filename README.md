@@ -11,7 +11,7 @@ https://atharvachavan.github.io/brainmetron/
 #https://atharvachavan.github.io/brainmetron/Videos
 <br><br><br>
 #### Pics:
-![image](https://user-images.githubusercontent.com/35627981/140475849-2b52cbad-3f25-45d1-a1e8-80d470c4e66d.png)
+![image](https://user-images.githubusercontent.com/35627981/214833493-22fd9317-4dea-4a9a-9159-d749e5f3d932.png)
 
 <br>
-![image](https://user-images.githubusercontent.com/91623466/135617420-f2c8397b-1508-4556-8a67-ffd48536beb4.png)
+![image](https://user-images.githubusercontent.com/35627981/214833553-9667c772-2365-41c9-8045-8114bfb6a0cc.png)
